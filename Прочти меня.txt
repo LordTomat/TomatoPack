@@ -20,3 +20,21 @@ discord.gg/s3MYj33CBZ
 У меня нету более старых версий этих карт, а те, что есть - уже лежат в папках (в Indev и Old например), так что искать, например, более старую версию ГТВ вам придётся на эпикваре, например
 
 Если вы у нас огромный любитель "Деревни" и только её - советую посетить этот репозиторий: https://github.com/LordTomat/VillageBuildPack
+
+ЕЩЁ КОЕ ЧТО ВАЖНОЕ!
+На данный момент как минимум 2 (две) карты не могут быть залиты на гитхаб из-за местного
+лимита на размер файлов, поэтому они залиты на другие сайты и вы можете скачать их
+по ссылкам ниже. Старые версии этих карт, которые не вышли за лимит до сих пор
+лежат в этом паке, но обновления будут только по этим ссылкам!
+
+Симулятор Гомеля 1.03fix:
+На яндекс-диске: https://disk.yandex.ru/d/s9vAMoY7l74NJQ
+На Иринабот: https://irinabot.ru/maps/50936
+В Вконтакте: https://vk.com/tomatb?w=wall-223338206_42
+В гугл-диске: https://drive.google.com/file/d/1KFgxuL8j3ZOfcW-14QdrJJaAsE8HBMo_/view?usp=sharing 
+
+Челябинск r12fix:
+Ирина: https://irinabot.ru/maps/56705
+Гугл диск: https://drive.google.com/file/d/10ns8I_UcbxvhSbv3ByM9oLLYHjlizy1W/view?usp=sharing
+Яндекс диск: https://disk.yandex.ru/d/OAXfEm5KxFeDPw
+ВК: https://vk.com/tomatb?w=wall-223338206_66 
